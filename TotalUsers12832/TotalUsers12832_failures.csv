@@ -1,0 +1,4 @@
+"Method","Name","Error","Occurrences"
+"POST","/","500 Server Error: Internal Server Error for url: http://127.0.0.1:7000/",19
+"POST","/","400 Client Error: Bad Request for url: http://127.0.0.1:7000/",7
+"POST","/measureResults.html","500 Server Error: Internal Server Error for url: http://127.0.0.1:7000/measureResults.html",3
